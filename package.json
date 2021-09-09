@@ -1,0 +1,11 @@
+{
+  "name": "java-exercise-8",
+  "version": "1.0.0",
+  "description": "Implementare, tramite blocchi condizionali e cicli, la funzione `calculateAverageAge`, la quale, dato un array di persone, calcola l'età media",
+  "main": "exercise-5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
